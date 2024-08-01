@@ -22,3 +22,6 @@
 .hide{
     visibility: hidden;
 }
+.justify-end{
+    justify-content: space-between;
+}

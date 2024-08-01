@@ -124,3 +124,6 @@ padding: 15px 0px ;
     background-color: hsl(4, 100%, 67%);
     cursor: pointer;
 }
+.error{
+    color: red;
+}
